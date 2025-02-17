@@ -15,3 +15,5 @@ As stated above, the m ain purpose is to provide simple examples for Git trainin
 This is a simple web project, deployment can be on aany web server or even local file system.
 
 ## How to Contribute
+
+Contact us.
