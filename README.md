@@ -17,3 +17,7 @@ This is a simple web project, deployment can be on aany web server or even local
 ## How to Contribute
 
 Contact us.
+
+### Copyright
+
+Git.Training.
